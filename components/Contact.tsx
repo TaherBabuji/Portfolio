@@ -7,8 +7,8 @@ const Contact = () => {
       <div className="max-w-5xl mx-auto flex flex-col gap-4 items-center justify-center">
         <h1 className="text-4xl font-bold">Contact with me!</h1>
         <p className="text-lg tracking-wide font-medium text-center">
-          I'm always open to new opportunities and would love to discuss how I
-          can contribute to your team.Let's talk about how my skills and
+          I&#39;m always open to new opportunities and would love to discuss how I
+          can contribute to your team.Let&#39;s talk about how my skills and
           experience can be a perfect fit for your needs.
         </p>
         <a href="mailto:aliasgertaher@gmail.com">
