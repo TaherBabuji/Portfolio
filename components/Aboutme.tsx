@@ -14,7 +14,7 @@ const Aboutme = () => {
           internship, I actively contributed to projects using JavaScript,
           Express, Node.js, and MongoDB. This hands-on experience has honed my
           skills in building scalable and efficient backend systems. Project
-          Portfolio: I've completed projects that showcase my ability to develop
+          Portfolio: I&#39;ve completed projects that showcase my ability to develop
           robust backend solutions. For example, I&#39;ve built RESTful APIs,
           implemented authentication and authorization mechanisms, and
           integrated databases to store and retrieve data efficiently. my
