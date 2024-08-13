@@ -12,7 +12,7 @@ const Projects = () => {
         <ProjectCard
           img={clean.src}
           title="Clean Blog"
-          link="https://github.com/TaherBabuji/blogpost-project"
+          link="https://blogpost-project-9pv1.onrender.com/"
         />
         <ProjectCard
           img={videoTube.src}
