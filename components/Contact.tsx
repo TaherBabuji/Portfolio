@@ -5,7 +5,7 @@ const Contact = () => {
   return (
     <div className="wrapper">
       <div className="max-w-5xl mx-auto flex flex-col gap-4 items-center justify-center">
-        <h1 className="text-4xl font-bold">Contact with me!</h1>
+        <h1 className="text-4xl font-bold">Connect with me!</h1>
         <p className="text-lg tracking-wide font-medium text-center">
           I&#39;m always open to new opportunities and would love to discuss how I
           can contribute to your team.Let&#39;s talk about how my skills and
