@@ -13,13 +13,13 @@ const Projects = () => {
         <ProjectCard
           img={clean.src}
           title="Clean Blog"
-          link="https://github.com/TaherBabuji/blogpost-project"
+          link="https://blogpost-project-9pv1.onrender.com/"
           link_demo="Live Demo"
         />
         <ProjectCard
           img={moviereview.src}
           title="ReelReview"
-          link="https://github.com/TaherBabuji/blogpost-project"
+          link="https://reel-review-project.netlify.app/"
           link_demo="Live Demo"
         />
         <ProjectCard
